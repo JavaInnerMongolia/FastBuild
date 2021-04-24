@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.fast_build</groupId>
+    <artifactId>fast_build_project</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>fast_build_project</name>
+    <description>快速构建微服务项目框架</description>
+
+    <dependencies>
+    </dependencies>
+</project>
