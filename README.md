@@ -2,6 +2,9 @@
 # 简介
 快速构建微服务项目框架
 
+# 技术架构
+SpringBoot+SpringCloud
+
 # 项目框架
 ## eureka-server
 
