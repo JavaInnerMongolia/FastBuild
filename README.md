@@ -1,14 +1,15 @@
-# FastSpringBoot
-# 简介
-快速构建微服务项目框架
+# FastBuild
+基于SpringBoot+SpringCloud 快速构建微服务项目
 
-# 技术架构
-SpringBoot+SpringCloud
+# 框架
+## eureka-server 
+端口: 10001
 
-# 项目框架
-## eureka-server
+## config-server
+端口: 10002
 
-## auth-server
+## auth-server 
+端口: 10003
 
 ## xxx
 

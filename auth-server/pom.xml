@@ -13,9 +13,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>auth-server</name>
 	<description>网关权限管理</description>
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
+
 	<dependencies>
 		<!-- Web -->
 		<dependency>
@@ -103,5 +105,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
